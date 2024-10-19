@@ -554,6 +554,14 @@ video {
   display: none;
 }
 
+.h-28 {
+  height: 7rem;
+}
+
+.w-32 {
+  width: 8rem;
+}
+
 .bg-teal-200 {
   --tw-bg-opacity: 1;
   background-color: rgb(153 246 228 / var(--tw-bg-opacity));
