@@ -51,6 +51,11 @@
   --tw-contain-paint:  ;
   --tw-contain-style:  ;
 }
+nav h2:hover{
+background-color: blue;
+padding: 24px 15px;
+}
+
 
 ::backdrop {
   --tw-border-spacing-x: 0;
